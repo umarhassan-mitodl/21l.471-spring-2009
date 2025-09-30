@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "7f993540-9e24-e830-3d24-df43f0e72610",
+  "instructors": {
+    "content": [
+      "b8f6c328-4734-dbc7-1e72-f22109c5ce34"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "241a6cef-2e98-6e06-b0c4-3a7fb9fe4df0",
+    "website": "21l-471-major-english-novels-spring-2009"
+  },
+  "course_title": "Major English Novels",
+  "hide_download": true,
+  "course_description": "In this class, you will read, think about, and (I hope) enjoy important examples of what has become one of the most popular literary genres today, if not the most popular: the novel. Some of the questions we will consider are: Why did so many novels appear in the eighteenth century? Why were they\u2014and are they\u2014called novels? Who wrote them? Who read them? Who narrates them? What are they likely to be about? Do they have distinctive characteristics? What is their relationship to the time and place in which they appeared? How have they changed over the years? And, most of all, why do we like to read them so much?\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.471",
+  "course_image_thumbnail": {
+    "content": "a61d7de2-9dd2-29d3-14b4-f4160a6beba5",
+    "website": "21l-471-major-english-novels-spring-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "751d9f32-a827-49b5-b747-31c232dc8c98",
+  "site_short_id": "21l.471-spring-2009",
+  "site_url_path": "courses/21l-471-major-english-novels-spring-2009",
+  "title": "Course Metadata"
+}
