@@ -21,19 +21,19 @@ In this class, you will read, think about, and (I hope) enjoy important examples
 
 ### Required Textbooks
 
-Defoe, Daniel. *Moll Flanders*. New York, NY: Penguin Classics, 1989. ISBN: 9780140433135. The [e-text](http://www.gutenberg.org/etext/9685) is available from Project Gutenberg.
+Defoe, Daniel. *Moll Flanders*. New York, NY: Penguin Classics, 1989. ISBN: 9780140433135. The {{% resource_link "b2f0b217-e830-4979-8dc1-6561f3e51d4d" "e-text" %}} is available from Project Gutenberg.
 
-Burney, Frances. *Evelina*. New York, NY: Oxford University Press, 2002. ISBN: 9780192840318. The [e-text](http://www.gutenberg.org/etext/6053) is available from Project Gutenberg.
+Burney, Frances. *Evelina*. New York, NY: Oxford University Press, 2002. ISBN: 9780192840318. The {{% resource_link "358697da-777c-4c6d-be64-a82229a8eecc" "e-text" %}} is available from Project Gutenberg.
 
-Austen, Jane. *Pride and Prejudice*. New York, NY: Penguin, 2004. ISBN: 9780192802385. The [e-text](http://www.gutenberg.org/etext/1342) and [audio book](http://www.gutenberg.org/etext/20686) are available from Project Gutenberg.
+Austen, Jane. *Pride and Prejudice*. New York, NY: Penguin, 2004. ISBN: 9780192802385. The {{% resource_link "3f51171a-f13b-4b2a-a8e6-ac26d52f216d" "e-text" %}} and {{% resource_link "4cc61444-53af-4dcc-9906-9c609599cda6" "audio book" %}} are available from Project Gutenberg.
 
-Gaskell, Elizabeth. *Mary Barton*. New York, NY: Oxford University Press, 2006. ISBN: 9780192805621. The [e-text](http://www.gutenberg.org/etext/2153) is available from Project Gutenberg.
+Gaskell, Elizabeth. *Mary Barton*. New York, NY: Oxford University Press, 2006. ISBN: 9780192805621. The {{% resource_link "fbd878c5-ca0c-43ce-ac5d-e874f228d42f" "e-text" %}} is available from Project Gutenberg.
 
-Eliot, George. *Adam Bede*. New York, NY: Penguin Classics, 1980. ISBN: 9780140431216. The [e-text](http://www.gutenberg.org/etext/507) is available from Project Gutenberg.
+Eliot, George. *Adam Bede*. New York, NY: Penguin Classics, 1980. ISBN: 9780140431216. The {{% resource_link "1590e9ed-b783-42c8-8060-8e047c55420d" "e-text" %}} is available from Project Gutenberg.
 
-Braddon, Mary Elizabeth. *Lady Audley's Secret*. New York, NY: Oxford University Press, 1998. ISBN: 9780192835208. The [e-text](http://www.gutenberg.org/etext/8954) is available from Project Gutenberg.
+Braddon, Mary Elizabeth. *Lady Audley's Secret*. New York, NY: Oxford University Press, 1998. ISBN: 9780192835208. The {{% resource_link "29de3ed5-80b9-4070-b223-31f5ebdba4fd" "e-text" %}} is available from Project Gutenberg.
 
-Hardy, Thomas. *Tess of the d'Ubervilles*. New York, NY: Penguin Classics, 2003. ISBN: 9780141439594. The [e-text](http://www.gutenberg.org/etext/110) is available from Project Gutenberg.
+Hardy, Thomas. *Tess of the d'Ubervilles*. New York, NY: Penguin Classics, 2003. ISBN: 9780141439594. The {{% resource_link "91966f11-c84d-49bb-8e74-490fbecf57d1" "e-text" %}} is available from Project Gutenberg.
 
 Woolf, Virginia. *Mrs. Dalloway*. New York, NY: Harcourt Brace Jovanovich, 1990. ISBN: 9780156628709. 
 
@@ -43,7 +43,7 @@ There are two essay assignments for this course. Both essays are 7-10 pages long
 
 ## MIT Literature Statement on Plagiarism
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "c9d37fd4-9a95-4090-8fd0-7a177304e7f3" "Writing and Communication Center" %}} and the {{% resource_link "24397497-1001-4543-8de3-17fbde72af32" "MIT Web site on Plagiarism" %}}.
 
 ## Calendar
 
